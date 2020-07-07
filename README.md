@@ -37,10 +37,10 @@ These values may be overriden from your `.vimrc` e.g.
 Using Vim8's built-in package manager, from `~.vim` do:
 
 ```
-~/.vim/pack/vendor/start/$ git clone https://github.com/dakeryas/StripTrailingWhitespaces.vim.git
+~/.vim/pack/vendor/start/$ git clone https://github.com/dakeryas/StripTrailingSpaces.vim.git
 ```
 Or simple as a submodule if your `.vim` folder is under version control:
 
 ```
-~/.vim/pack/vendor/start/$ git submodule add https://github.com/dakeryas/StripTrailingWhitespaces.vim.git
+~/.vim/pack/vendor/start/$ git submodule add https://github.com/dakeryas/StripTrailingSpaces.vim.git
 ```
