@@ -4,7 +4,7 @@ Strip trailing spaces of a buffer upon writing.
 
 By default, many file extensions are active for this plugin. The list is below:
 ```
- *.vim
+*.vim
 *.h
 *.c
 *cc
@@ -17,11 +17,14 @@ By default, many file extensions are active for this plugin. The list is below:
 CMakeLists.txt
 *akefile*
 *.py
+*.rb
 *.awk
 *.sh
 *.csh
 *.zsh
 *.f90
+*.cfg
+*.yaml
 *.yml
 *.md
 *.cue
